@@ -61,13 +61,12 @@ Drug-like molecules must satisfy:
 
 CHEMINFORMATICS SUMMARY
 
-Total molecules analyzed: 5
-Average molecular weight: 140.96 g/mol
-Average LogP: 1.01
-Lipinski PASS: 5
-Lipinski FAIL: 0
+- Total molecules analyzed: 5
+- Average molecular weight: 140.96 g/mol
+- Average LogP: 1.01
+- Lipinski PASS: 5
+- Lipinski FAIL: 0
 
 Visualization saved as: molecular_properties.png
-
 Analysis completed successfully!
 
